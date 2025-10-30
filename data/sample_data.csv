@@ -1,0 +1,1001 @@
+product_id,product_name,category,price,weight
+1001,Table,Furniture,2310,25.1
+1002,Dress,Clothing,4754,0.96
+1003,Headphones,Other,7668,4.94
+1004,Power Bank,Electronics,45596,2.76
+1005,Wallet,Accessories,5941,0.29
+1006,Tablet,Electronics,27154,2.8
+1007,Charger,Other,8964,4.77
+1008,Charger,Other,3009,0.52
+1009,Cap,Clothing,487,0.82
+1010,Bookshelf,Furniture,38896,30.9
+1011,Sweater,Clothing,2504,0.53
+1012,Dress,Clothing,579,0.18
+1013,Pen Set,Other,10343,1.55
+1014,Desk,Furniture,25527,8.1
+1015,Pen Set,Other,12463,1.13
+1016,Headphones,Other,12438,3.21
+1017,Sweater,Clothing,483,0.48
+1018,Mug,Other,468,0.15
+1019,Sunglasses,Accessories,5707,0.66
+1020,Power Bank,Electronics,60380,1.6
+1021,Tablet,Electronics,79530,2.21
+1022,Charger,Other,775,1.84
+1023,Sofa,Furniture,21734,17.7
+1024,Power Bank,Electronics,49703,2.32
+1025,Jeans,Clothing,2755,0.4
+1026,Table,Furniture,43964,33.94
+1027,Table,Furniture,45291,31.98
+1028,Mug,Other,1481,3.49
+1029,Lamp,Other,12617,4.79
+1030,Sunglasses,Accessories,3359,1.5
+1031,Notebook,Other,3385,0.46
+1032,Cap,Clothing,1850,0.78
+1033,Office Chair,Furniture,35146,19.17
+1034,T-shirt,Clothing,2130,0.44
+1035,Lamp,Other,7405,4.59
+1036,Pen Set,Other,9167,4.48
+1037,Belt,Accessories,686,0.29
+1038,Belt,Accessories,5933,0.95
+1039,Watch,Accessories,9458,0.58
+1040,Headphones,Other,2284,4.64
+1041,Headphones,Other,920,1.29
+1042,Smartphone,Electronics,20630,1.54
+1043,Jacket,Clothing,518,0.22
+1044,Backpack,Accessories,8872,1.3
+1045,Jeans,Clothing,2694,0.38
+1046,Jeans,Clothing,4560,0.54
+1047,Power Bank,Electronics,19397,1.96
+1048,Sunglasses,Accessories,2870,1.36
+1049,Stool,Furniture,44709,14.14
+1050,Office Chair,Furniture,33601,37.23
+1051,Cap,Clothing,2966,0.25
+1052,Office Chair,Furniture,10929,8.14
+1053,Notebook,Other,744,2.91
+1054,Pen Set,Other,2799,4.28
+1055,Wireless Earbuds,Electronics,45520,2.49
+1056,T-shirt,Clothing,768,0.84
+1057,Table,Furniture,31436,36.46
+1058,Office Chair,Furniture,10667,10.06
+1059,Laptop,Electronics,32572,1.78
+1060,Watch,Accessories,9259,1.13
+1061,Stool,Furniture,32290,29.35
+1062,Belt,Accessories,8313,1.43
+1063,Lamp,Other,2438,3.97
+1064,Dress,Clothing,542,0.11
+1065,Jacket,Clothing,4437,0.58
+1066,Wallet,Accessories,6614,1.82
+1067,Dress,Clothing,610,0.92
+1068,Table,Furniture,38300,22.55
+1069,Bookshelf,Furniture,30341,32.07
+1070,Sunglasses,Accessories,1324,0.59
+1071,Mug,Other,10830,0.22
+1072,Sofa,Furniture,48184,20.04
+1073,Tablet,Electronics,16407,0.63
+1074,Lamp,Other,13062,4.09
+1075,Cap,Clothing,3874,0.45
+1076,Jacket,Clothing,563,0.84
+1077,Smartphone,Electronics,10071,1.24
+1078,Sweater,Clothing,2641,0.37
+1079,Pen Set,Other,5650,3.59
+1080,T-shirt,Clothing,1877,0.82
+1081,Smartphone,Electronics,29337,2.8
+1082,Laptop,Electronics,74265,0.78
+1083,Laptop,Electronics,70958,0.55
+1084,Dress,Clothing,3068,0.97
+1085,Power Bank,Electronics,18707,2.28
+1086,T-shirt,Clothing,4983,0.24
+1087,Bookshelf,Furniture,32180,15.36
+1088,Notebook,Other,5445,0.32
+1089,Power Bank,Electronics,13276,0.75
+1090,Sofa,Furniture,9266,26.96
+1091,Watch,Accessories,5977,1.65
+1092,Belt,Accessories,3640,1.7
+1093,Belt,Accessories,5888,0.14
+1094,Headphones,Other,6897,3.0
+1095,Watch,Accessories,9102,1.74
+1096,Headphones,Other,10489,4.27
+1097,Pen Set,Other,9147,1.59
+1098,Sweater,Clothing,3321,0.22
+1099,Table,Furniture,17396,39.27
+1100,Lamp,Other,6055,4.78
+1101,Pen Set,Other,10887,1.01
+1102,Scarf,Accessories,7744,1.48
+1103,Jacket,Clothing,1722,0.78
+1104,Laptop,Electronics,57956,1.63
+1105,Tablet,Electronics,39092,2.19
+1106,Sofa,Furniture,23765,29.93
+1107,Laptop,Electronics,74573,1.18
+1108,Pen Set,Other,4980,0.36
+1109,Charger,Other,13668,0.61
+1110,Lamp,Other,7411,0.76
+1111,Sweater,Clothing,1884,0.78
+1112,Wallet,Accessories,4209,0.62
+1113,Tablet,Electronics,61467,2.36
+1114,Headphones,Other,14198,1.97
+1115,Belt,Accessories,2507,0.41
+1116,Cap,Clothing,4002,0.6
+1117,Lamp,Other,7862,2.72
+1118,Wireless Earbuds,Electronics,34490,2.74
+1119,Sweater,Clothing,1876,0.85
+1120,Sweater,Clothing,2253,0.28
+1121,Mug,Other,11932,2.54
+1122,Backpack,Accessories,3044,0.74
+1123,Notebook,Other,10902,3.04
+1124,Wallet,Accessories,2864,0.44
+1125,Notebook,Other,6150,0.97
+1126,Sunglasses,Accessories,1195,1.2
+1127,Jacket,Clothing,1900,0.5
+1128,Lamp,Other,11569,1.32
+1129,Smartphone,Electronics,59573,2.29
+1130,Jeans,Clothing,2510,0.51
+1131,Cap,Clothing,2844,0.79
+1132,T-shirt,Clothing,4064,0.51
+1133,Sweater,Clothing,4521,0.46
+1134,Sunglasses,Accessories,5469,1.07
+1135,Lamp,Other,8244,1.16
+1136,Sofa,Furniture,15559,15.07
+1137,Watch,Accessories,7799,1.84
+1138,Smartphone,Electronics,9835,1.44
+1139,Watch,Accessories,7166,0.73
+1140,Notebook,Other,9434,3.21
+1141,Office Chair,Furniture,39356,38.23
+1142,Headphones,Other,6270,0.52
+1143,Table,Furniture,7628,24.0
+1144,Jacket,Clothing,2792,0.65
+1145,Bluetooth Speaker,Electronics,73638,0.27
+1146,Headphones,Other,8636,2.16
+1147,Power Bank,Electronics,72577,0.69
+1148,Jeans,Clothing,3807,0.74
+1149,Cap,Clothing,4460,0.37
+1150,Dress,Clothing,2635,0.29
+1151,Wallet,Accessories,913,1.37
+1152,Wireless Earbuds,Electronics,6736,1.2
+1153,Backpack,Accessories,6505,1.51
+1154,Charger,Other,11154,4.91
+1155,Belt,Accessories,5467,0.71
+1156,Mug,Other,14620,4.41
+1157,Backpack,Accessories,2448,1.66
+1158,T-shirt,Clothing,2793,0.45
+1159,Jacket,Clothing,4478,0.12
+1160,Stool,Furniture,34127,33.14
+1161,Wireless Earbuds,Electronics,50132,0.98
+1162,Watch,Accessories,1290,0.49
+1163,Office Chair,Furniture,9126,21.69
+1164,Sofa,Furniture,31860,8.05
+1165,Sofa,Furniture,47997,7.1
+1166,Jeans,Clothing,1728,0.1
+1167,Sunglasses,Accessories,8319,1.82
+1168,Jacket,Clothing,1497,0.75
+1169,T-shirt,Clothing,3213,0.95
+1170,Wireless Earbuds,Electronics,69487,2.62
+1171,Belt,Accessories,4405,0.37
+1172,Jacket,Clothing,4131,0.17
+1173,Lamp,Other,7574,4.35
+1174,Charger,Other,3370,3.32
+1175,Sofa,Furniture,19130,22.83
+1176,Table,Furniture,20252,14.44
+1177,Wireless Earbuds,Electronics,40354,1.93
+1178,Mug,Other,3723,1.21
+1179,Laptop,Electronics,16067,2.75
+1180,Bookshelf,Furniture,23819,27.09
+1181,Sofa,Furniture,7121,33.7
+1182,Bluetooth Speaker,Electronics,56343,1.71
+1183,Charger,Other,14911,1.03
+1184,Charger,Other,11721,2.49
+1185,Charger,Other,628,1.84
+1186,Lamp,Other,13147,1.52
+1187,Smartphone,Electronics,4361,0.51
+1188,Bookshelf,Furniture,6697,24.05
+1189,Sweater,Clothing,4699,0.95
+1190,Scarf,Accessories,4287,0.84
+1191,Wireless Earbuds,Electronics,7065,2.92
+1192,Table,Furniture,31769,28.12
+1193,Pen Set,Other,12380,3.79
+1194,Table,Furniture,46449,22.39
+1195,Table,Furniture,7541,9.73
+1196,Jeans,Clothing,2091,0.81
+1197,Headphones,Other,9349,1.09
+1198,Smartphone,Electronics,14341,0.75
+1199,Stool,Furniture,43256,26.14
+1200,Watch,Accessories,7675,1.71
+1201,Backpack,Accessories,6737,1.29
+1202,Jeans,Clothing,4668,0.96
+1203,Laptop,Electronics,3807,0.66
+1204,Smartphone,Electronics,73452,1.86
+1205,T-shirt,Clothing,315,0.29
+1206,Backpack,Accessories,543,0.42
+1207,Stool,Furniture,25693,19.14
+1208,Stool,Furniture,47827,27.4
+1209,Smartphone,Electronics,25597,1.59
+1210,Headphones,Other,13963,4.88
+1211,Table,Furniture,39915,24.87
+1212,T-shirt,Clothing,3890,0.74
+1213,Bluetooth Speaker,Electronics,22339,0.95
+1214,Laptop,Electronics,10863,2.17
+1215,Dress,Clothing,2829,0.84
+1216,Jeans,Clothing,1360,0.4
+1217,Sweater,Clothing,4807,0.83
+1218,Backpack,Accessories,6571,1.58
+1219,Tablet,Electronics,46661,2.93
+1220,Backpack,Accessories,1885,1.73
+1221,Jeans,Clothing,483,0.8
+1222,Bookshelf,Furniture,30852,27.84
+1223,Desk,Furniture,30171,39.17
+1224,Power Bank,Electronics,64619,1.06
+1225,Stool,Furniture,8002,36.06
+1226,Belt,Accessories,8335,1.91
+1227,Table,Furniture,34903,8.92
+1228,Stool,Furniture,47953,12.06
+1229,Dress,Clothing,924,0.95
+1230,Wireless Earbuds,Electronics,64601,2.27
+1231,Notebook,Other,13806,1.56
+1232,Jeans,Clothing,1082,0.22
+1233,Sweater,Clothing,1265,0.29
+1234,Notebook,Other,11380,1.23
+1235,Backpack,Accessories,7490,0.73
+1236,Notebook,Other,7707,3.87
+1237,Wallet,Accessories,1304,0.93
+1238,Backpack,Accessories,4476,1.21
+1239,Desk,Furniture,4968,10.98
+1240,Laptop,Electronics,64030,2.72
+1241,Notebook,Other,3004,1.22
+1242,Office Chair,Furniture,41396,39.91
+1243,Scarf,Accessories,933,1.23
+1244,Jacket,Clothing,2314,0.88
+1245,Office Chair,Furniture,29944,20.6
+1246,Wallet,Accessories,5041,1.81
+1247,Mug,Other,7102,1.47
+1248,Dress,Clothing,1134,0.8
+1249,Bookshelf,Furniture,21771,26.3
+1250,Power Bank,Electronics,71080,2.62
+1251,Jeans,Clothing,1992,0.13
+1252,Headphones,Other,4468,0.65
+1253,Wallet,Accessories,5259,0.93
+1254,Cap,Clothing,1509,0.57
+1255,Charger,Other,1775,0.34
+1256,Table,Furniture,47281,17.95
+1257,Sunglasses,Accessories,5152,0.47
+1258,Smartphone,Electronics,15004,1.39
+1259,Lamp,Other,2197,3.43
+1260,Stool,Furniture,16794,28.82
+1261,Mug,Other,3635,0.28
+1262,Sunglasses,Accessories,5698,1.43
+1263,Belt,Accessories,4563,0.54
+1264,Notebook,Other,2962,1.07
+1265,Power Bank,Electronics,53848,1.75
+1266,Watch,Accessories,4253,1.28
+1267,Jeans,Clothing,1277,0.26
+1268,Headphones,Other,1261,1.38
+1269,T-shirt,Clothing,2543,0.2
+1270,Stool,Furniture,28295,25.79
+1271,Notebook,Other,5487,2.68
+1272,Mug,Other,14247,1.73
+1273,Scarf,Accessories,1832,1.02
+1274,Bookshelf,Furniture,35715,16.57
+1275,Pen Set,Other,1372,3.97
+1276,Headphones,Other,11148,4.49
+1277,Mug,Other,7631,2.07
+1278,Table,Furniture,29806,31.79
+1279,Sweater,Clothing,1295,0.88
+1280,Laptop,Electronics,73498,1.37
+1281,Cap,Clothing,2624,0.53
+1282,Office Chair,Furniture,45446,7.42
+1283,Stool,Furniture,28868,38.0
+1284,Power Bank,Electronics,62745,0.3
+1285,Watch,Accessories,8656,0.27
+1286,Mug,Other,6491,3.2
+1287,Table,Furniture,40903,9.15
+1288,Power Bank,Electronics,10898,2.04
+1289,Bookshelf,Furniture,46354,16.3
+1290,Bluetooth Speaker,Electronics,54633,1.34
+1291,Notebook,Other,11595,3.16
+1292,Power Bank,Electronics,59014,2.71
+1293,Laptop,Electronics,67278,1.03
+1294,Bookshelf,Furniture,33501,7.9
+1295,Backpack,Accessories,1315,1.65
+1296,Mug,Other,14032,2.74
+1297,Jeans,Clothing,3250,0.45
+1298,Tablet,Electronics,2387,0.76
+1299,Headphones,Other,9852,3.24
+1300,Bluetooth Speaker,Electronics,44249,1.65
+1301,Dress,Clothing,1912,0.67
+1302,Lamp,Other,10043,2.01
+1303,Wireless Earbuds,Electronics,3795,1.12
+1304,Backpack,Accessories,3464,1.44
+1305,Notebook,Other,4730,4.31
+1306,Sofa,Furniture,32440,21.93
+1307,Pen Set,Other,2842,3.1
+1308,Wireless Earbuds,Electronics,36363,1.8
+1309,Stool,Furniture,8459,20.5
+1310,Jeans,Clothing,4306,0.4
+1311,Power Bank,Electronics,10455,2.77
+1312,Table,Furniture,31281,31.69
+1313,Backpack,Accessories,7103,1.95
+1314,Smartphone,Electronics,54996,1.36
+1315,Headphones,Other,13588,2.58
+1316,Mug,Other,1099,1.37
+1317,Stool,Furniture,44999,28.68
+1318,Office Chair,Furniture,43188,7.85
+1319,Wireless Earbuds,Electronics,28620,2.72
+1320,Dress,Clothing,3319,0.88
+1321,Jeans,Clothing,2181,0.98
+1322,Wireless Earbuds,Electronics,59285,1.98
+1323,Watch,Accessories,5951,1.2
+1324,Sweater,Clothing,2238,0.39
+1325,Sofa,Furniture,43801,27.42
+1326,Laptop,Electronics,52256,2.47
+1327,Dress,Clothing,459,0.86
+1328,Desk,Furniture,49352,25.32
+1329,Jeans,Clothing,1213,0.96
+1330,Sunglasses,Accessories,5861,0.14
+1331,Table,Furniture,6445,15.49
+1332,Charger,Other,12903,0.28
+1333,T-shirt,Clothing,893,0.49
+1334,Charger,Other,10818,2.24
+1335,Watch,Accessories,6081,1.02
+1336,Stool,Furniture,15303,8.94
+1337,Sunglasses,Accessories,1413,0.14
+1338,Notebook,Other,6753,0.26
+1339,T-shirt,Clothing,2432,0.93
+1340,Headphones,Other,3264,1.58
+1341,Cap,Clothing,4776,0.62
+1342,Desk,Furniture,38230,22.52
+1343,Power Bank,Electronics,35817,0.99
+1344,Power Bank,Electronics,6357,2.31
+1345,Laptop,Electronics,41910,1.15
+1346,Sunglasses,Accessories,9704,0.18
+1347,Sunglasses,Accessories,1014,0.2
+1348,Bluetooth Speaker,Electronics,6543,0.25
+1349,Desk,Furniture,42529,26.01
+1350,Notebook,Other,1251,1.45
+1351,Desk,Furniture,32433,39.4
+1352,Wireless Earbuds,Electronics,39850,1.24
+1353,Dress,Clothing,4986,0.93
+1354,Backpack,Accessories,3469,0.32
+1355,Wireless Earbuds,Electronics,8484,1.34
+1356,Lamp,Other,8162,0.74
+1357,Charger,Other,4308,2.63
+1358,Wireless Earbuds,Electronics,33845,2.6
+1359,Laptop,Electronics,65471,1.4
+1360,Bluetooth Speaker,Electronics,25549,1.51
+1361,Jacket,Clothing,697,0.39
+1362,Sweater,Clothing,2546,0.86
+1363,Backpack,Accessories,9426,0.3
+1364,Laptop,Electronics,1561,1.88
+1365,Cap,Clothing,3854,0.24
+1366,Pen Set,Other,3441,1.48
+1367,Jacket,Clothing,3262,0.23
+1368,Belt,Accessories,5304,0.56
+1369,Wallet,Accessories,5245,1.91
+1370,Cap,Clothing,3201,0.64
+1371,Sofa,Furniture,38202,31.03
+1372,Lamp,Other,8992,1.9
+1373,Table,Furniture,25122,32.1
+1374,Stool,Furniture,45818,31.74
+1375,Notebook,Other,8951,0.27
+1376,Jacket,Clothing,1853,0.19
+1377,Sweater,Clothing,2156,0.87
+1378,Notebook,Other,5775,4.94
+1379,Watch,Accessories,4873,1.67
+1380,Tablet,Electronics,1453,2.6
+1381,Pen Set,Other,12831,3.06
+1382,Jacket,Clothing,2765,0.2
+1383,Notebook,Other,306,2.14
+1384,Bluetooth Speaker,Electronics,13136,2.2
+1385,Jeans,Clothing,3984,0.5
+1386,T-shirt,Clothing,1413,0.49
+1387,Mug,Other,1773,3.7
+1388,Power Bank,Electronics,74726,1.69
+1389,Smartphone,Electronics,51265,0.92
+1390,Watch,Accessories,9843,0.86
+1391,T-shirt,Clothing,1011,0.35
+1392,Watch,Accessories,5866,0.2
+1393,Cap,Clothing,1157,0.47
+1394,Bluetooth Speaker,Electronics,45267,0.85
+1395,Charger,Other,5214,0.21
+1396,Notebook,Other,3887,2.07
+1397,Backpack,Accessories,4235,1.93
+1398,Sweater,Clothing,4623,0.37
+1399,Headphones,Other,11904,1.22
+1400,Office Chair,Furniture,24921,13.74
+1401,Dress,Clothing,4986,0.42
+1402,Jacket,Clothing,3650,0.38
+1403,Wireless Earbuds,Electronics,40102,1.57
+1404,Stool,Furniture,6367,38.03
+1405,Jacket,Clothing,3401,0.9
+1406,Office Chair,Furniture,33782,10.74
+1407,Stool,Furniture,16061,7.04
+1408,Table,Furniture,36456,11.42
+1409,Jeans,Clothing,4961,0.98
+1410,Wireless Earbuds,Electronics,72297,1.3
+1411,Cap,Clothing,1859,0.28
+1412,Belt,Accessories,4884,0.61
+1413,Wireless Earbuds,Electronics,35484,1.54
+1414,Bluetooth Speaker,Electronics,31980,1.75
+1415,Notebook,Other,7035,1.1
+1416,Jeans,Clothing,3159,0.37
+1417,Bookshelf,Furniture,13501,12.84
+1418,Cap,Clothing,1112,0.2
+1419,Sofa,Furniture,11050,9.97
+1420,Sofa,Furniture,29340,29.57
+1421,Mug,Other,9762,2.14
+1422,Tablet,Electronics,75690,0.61
+1423,Power Bank,Electronics,31812,2.49
+1424,Wallet,Accessories,2216,1.89
+1425,Scarf,Accessories,5602,1.5
+1426,Wallet,Accessories,5592,0.39
+1427,Sweater,Clothing,2632,0.52
+1428,Wireless Earbuds,Electronics,7561,1.4
+1429,Tablet,Electronics,15763,1.42
+1430,Watch,Accessories,1653,1.52
+1431,Wireless Earbuds,Electronics,1506,0.84
+1432,Cap,Clothing,2879,0.73
+1433,Backpack,Accessories,2329,1.35
+1434,Table,Furniture,26454,32.46
+1435,Cap,Clothing,2849,0.52
+1436,Wireless Earbuds,Electronics,23471,0.87
+1437,Jeans,Clothing,4099,0.29
+1438,Office Chair,Furniture,4019,26.0
+1439,Scarf,Accessories,2066,1.57
+1440,Bookshelf,Furniture,39556,30.95
+1441,Sweater,Clothing,3581,0.13
+1442,Belt,Accessories,2522,0.65
+1443,Desk,Furniture,48469,13.87
+1444,Jacket,Clothing,4101,0.88
+1445,Sweater,Clothing,522,0.49
+1446,Sunglasses,Accessories,4198,0.87
+1447,T-shirt,Clothing,319,0.8
+1448,Table,Furniture,35880,37.62
+1449,Sweater,Clothing,3093,0.17
+1450,Wireless Earbuds,Electronics,37707,1.71
+1451,Scarf,Accessories,2757,0.49
+1452,T-shirt,Clothing,3915,0.98
+1453,Headphones,Other,2117,0.26
+1454,Lamp,Other,2631,3.75
+1455,Sofa,Furniture,27742,6.92
+1456,Tablet,Electronics,63658,2.28
+1457,Scarf,Accessories,2648,1.04
+1458,Sofa,Furniture,5939,11.11
+1459,T-shirt,Clothing,3927,0.63
+1460,Power Bank,Electronics,56180,2.38
+1461,Smartphone,Electronics,61469,1.22
+1462,Tablet,Electronics,28721,0.41
+1463,Table,Furniture,5732,20.66
+1464,Bookshelf,Furniture,28175,26.77
+1465,Watch,Accessories,7351,1.35
+1466,Headphones,Other,14605,3.73
+1467,Lamp,Other,11533,2.1
+1468,T-shirt,Clothing,4217,0.38
+1469,Jacket,Clothing,2084,0.96
+1470,Sweater,Clothing,1369,0.43
+1471,Cap,Clothing,4506,0.73
+1472,Lamp,Other,3477,2.39
+1473,Jacket,Clothing,589,0.34
+1474,Bluetooth Speaker,Electronics,21670,0.4
+1475,Pen Set,Other,10896,4.99
+1476,Desk,Furniture,46178,13.26
+1477,Headphones,Other,13679,1.86
+1478,Headphones,Other,3837,2.18
+1479,Pen Set,Other,14381,2.33
+1480,Pen Set,Other,10553,0.55
+1481,Smartphone,Electronics,22567,1.88
+1482,Power Bank,Electronics,10948,2.74
+1483,Sunglasses,Accessories,1216,0.64
+1484,Cap,Clothing,4150,0.58
+1485,Belt,Accessories,2685,1.08
+1486,Wireless Earbuds,Electronics,3351,2.14
+1487,Bookshelf,Furniture,10673,21.75
+1488,Headphones,Other,9426,1.11
+1489,Sofa,Furniture,6060,16.46
+1490,Headphones,Other,13058,2.45
+1491,Dress,Clothing,1059,0.47
+1492,Pen Set,Other,9308,2.74
+1493,Desk,Furniture,44821,19.62
+1494,Stool,Furniture,4068,30.05
+1495,Backpack,Accessories,2783,0.47
+1496,Sunglasses,Accessories,5771,1.4
+1497,Table,Furniture,4685,11.2
+1498,Belt,Accessories,6839,0.19
+1499,Sweater,Clothing,2927,0.22
+1500,Scarf,Accessories,2745,1.42
+1501,Smartphone,Electronics,79953,2.33
+1502,Watch,Accessories,1467,1.83
+1503,Belt,Accessories,6190,0.67
+1504,Notebook,Other,4191,0.79
+1505,Desk,Furniture,35518,36.88
+1506,Dress,Clothing,3629,0.79
+1507,T-shirt,Clothing,4048,0.67
+1508,Table,Furniture,10719,33.9
+1509,Notebook,Other,6546,3.29
+1510,Desk,Furniture,29657,7.43
+1511,Sweater,Clothing,3118,0.7
+1512,T-shirt,Clothing,3429,0.57
+1513,Bluetooth Speaker,Electronics,68295,1.69
+1514,Wireless Earbuds,Electronics,15015,1.64
+1515,Wallet,Accessories,2781,0.35
+1516,Power Bank,Electronics,41538,1.52
+1517,Jacket,Clothing,2760,0.31
+1518,Scarf,Accessories,9862,1.52
+1519,Backpack,Accessories,4438,0.59
+1520,T-shirt,Clothing,345,0.67
+1521,Power Bank,Electronics,35077,1.93
+1522,Table,Furniture,33309,14.14
+1523,Mug,Other,1134,0.21
+1524,Sofa,Furniture,6615,38.79
+1525,Jeans,Clothing,2233,0.21
+1526,Backpack,Accessories,4321,0.4
+1527,Office Chair,Furniture,38686,38.35
+1528,Belt,Accessories,8930,0.65
+1529,Laptop,Electronics,4159,1.24
+1530,Sweater,Clothing,4337,0.41
+1531,Mug,Other,12635,4.57
+1532,Scarf,Accessories,6688,1.53
+1533,Scarf,Accessories,2938,0.57
+1534,Dress,Clothing,1261,0.43
+1535,Wireless Earbuds,Electronics,52120,2.73
+1536,Bluetooth Speaker,Electronics,54510,1.14
+1537,Jacket,Clothing,2718,0.92
+1538,Notebook,Other,12536,2.29
+1539,Stool,Furniture,14201,26.12
+1540,Backpack,Accessories,4530,0.92
+1541,Notebook,Other,13322,2.58
+1542,Smartphone,Electronics,12037,0.31
+1543,Table,Furniture,40331,15.99
+1544,Sweater,Clothing,4396,0.86
+1545,Smartphone,Electronics,70401,1.28
+1546,Watch,Accessories,2798,0.52
+1547,Tablet,Electronics,9885,0.57
+1548,Jacket,Clothing,4904,0.92
+1549,Desk,Furniture,11816,10.35
+1550,Wallet,Accessories,2415,0.62
+1551,Lamp,Other,8273,2.53
+1552,Wallet,Accessories,7898,0.34
+1553,Backpack,Accessories,624,1.56
+1554,Sunglasses,Accessories,9520,1.91
+1555,Backpack,Accessories,3434,1.39
+1556,Bluetooth Speaker,Electronics,32485,0.99
+1557,Backpack,Accessories,4265,1.18
+1558,Mug,Other,13397,4.01
+1559,Stool,Furniture,38890,11.29
+1560,Wireless Earbuds,Electronics,65107,0.6
+1561,Sweater,Clothing,1580,0.47
+1562,Mug,Other,14922,1.7
+1563,Headphones,Other,14659,1.07
+1564,Watch,Accessories,2413,1.24
+1565,Sunglasses,Accessories,7001,0.1
+1566,Desk,Furniture,20719,31.72
+1567,Sunglasses,Accessories,5349,0.4
+1568,Pen Set,Other,6986,3.85
+1569,Smartphone,Electronics,44114,2.84
+1570,Stool,Furniture,30927,18.64
+1571,Jeans,Clothing,719,0.34
+1572,Sofa,Furniture,25766,26.99
+1573,Stool,Furniture,15223,9.14
+1574,Desk,Furniture,25375,33.31
+1575,Laptop,Electronics,54830,2.41
+1576,T-shirt,Clothing,437,0.32
+1577,Laptop,Electronics,10817,0.58
+1578,Bluetooth Speaker,Electronics,64885,2.24
+1579,Dress,Clothing,3933,0.58
+1580,Watch,Accessories,9705,1.71
+1581,Power Bank,Electronics,72316,0.45
+1582,Watch,Accessories,5050,1.0
+1583,Backpack,Accessories,7097,0.87
+1584,Lamp,Other,14252,1.66
+1585,Jeans,Clothing,3174,0.29
+1586,Smartphone,Electronics,48905,2.0
+1587,Charger,Other,5038,3.61
+1588,Smartphone,Electronics,33915,1.58
+1589,T-shirt,Clothing,4752,0.54
+1590,Notebook,Other,12817,4.32
+1591,T-shirt,Clothing,1964,0.75
+1592,Watch,Accessories,7223,0.73
+1593,Headphones,Other,13631,0.49
+1594,Charger,Other,10333,0.16
+1595,Sofa,Furniture,12284,20.17
+1596,Scarf,Accessories,1747,1.28
+1597,Smartphone,Electronics,41341,1.31
+1598,Charger,Other,9250,2.77
+1599,Pen Set,Other,6945,3.68
+1600,Tablet,Electronics,28611,2.51
+1601,T-shirt,Clothing,3896,0.93
+1602,Stool,Furniture,34540,21.81
+1603,Sweater,Clothing,2941,0.9
+1604,Charger,Other,14995,0.92
+1605,Belt,Accessories,3666,1.37
+1606,Sofa,Furniture,2425,29.23
+1607,Tablet,Electronics,60500,1.69
+1608,Table,Furniture,13613,24.75
+1609,Lamp,Other,12817,2.61
+1610,Wallet,Accessories,7353,1.23
+1611,Dress,Clothing,336,0.47
+1612,Jacket,Clothing,1314,0.15
+1613,T-shirt,Clothing,1846,0.65
+1614,Jacket,Clothing,3457,0.67
+1615,Lamp,Other,4003,2.27
+1616,Jeans,Clothing,1919,0.52
+1617,Pen Set,Other,4294,1.13
+1618,Mug,Other,11474,1.54
+1619,Lamp,Other,6523,0.64
+1620,Bluetooth Speaker,Electronics,16333,0.22
+1621,Bookshelf,Furniture,17789,11.13
+1622,Scarf,Accessories,2629,1.04
+1623,Notebook,Other,5849,3.51
+1624,Tablet,Electronics,2455,0.22
+1625,Tablet,Electronics,32428,2.17
+1626,Bluetooth Speaker,Electronics,10362,2.96
+1627,Scarf,Accessories,4241,0.19
+1628,Bookshelf,Furniture,4988,19.86
+1629,Office Chair,Furniture,22199,19.13
+1630,Mug,Other,12838,2.27
+1631,Scarf,Accessories,1925,0.1
+1632,Pen Set,Other,5651,1.29
+1633,Jeans,Clothing,3446,0.87
+1634,Sofa,Furniture,3340,34.99
+1635,Jeans,Clothing,752,0.57
+1636,Scarf,Accessories,9876,1.09
+1637,Wallet,Accessories,9670,0.73
+1638,Belt,Accessories,1352,1.09
+1639,T-shirt,Clothing,2531,0.37
+1640,Pen Set,Other,14388,1.21
+1641,Office Chair,Furniture,30174,18.84
+1642,Jacket,Clothing,2948,0.17
+1643,Stool,Furniture,47737,35.57
+1644,Dress,Clothing,1765,0.28
+1645,Pen Set,Other,14317,1.49
+1646,Belt,Accessories,9068,1.65
+1647,Notebook,Other,5368,1.52
+1648,Office Chair,Furniture,24353,26.08
+1649,Stool,Furniture,44805,15.69
+1650,Scarf,Accessories,7999,1.88
+1651,Stool,Furniture,22026,21.61
+1652,Stool,Furniture,48871,10.81
+1653,Table,Furniture,49832,8.05
+1654,Office Chair,Furniture,30698,14.74
+1655,Watch,Accessories,5939,1.31
+1656,Sweater,Clothing,2075,0.25
+1657,Sweater,Clothing,1189,0.11
+1658,Sunglasses,Accessories,5684,1.83
+1659,Wallet,Accessories,3840,1.36
+1660,Scarf,Accessories,3977,0.71
+1661,Dress,Clothing,2165,0.42
+1662,Wallet,Accessories,9358,0.17
+1663,Watch,Accessories,5362,1.59
+1664,Cap,Clothing,3136,0.3
+1665,Cap,Clothing,1443,0.87
+1666,Tablet,Electronics,59109,0.95
+1667,Table,Furniture,22317,16.76
+1668,Headphones,Other,6838,4.04
+1669,Pen Set,Other,3524,3.83
+1670,Jeans,Clothing,4090,0.16
+1671,Sunglasses,Accessories,4919,1.42
+1672,Mug,Other,11786,1.78
+1673,Sofa,Furniture,47764,6.7
+1674,Mug,Other,13772,1.53
+1675,Laptop,Electronics,52615,2.31
+1676,Belt,Accessories,6831,1.79
+1677,Headphones,Other,9751,2.41
+1678,Sweater,Clothing,1166,0.91
+1679,Smartphone,Electronics,44404,1.95
+1680,Tablet,Electronics,42029,1.95
+1681,Desk,Furniture,17236,24.61
+1682,Cap,Clothing,4200,0.59
+1683,Mug,Other,7256,0.74
+1684,T-shirt,Clothing,2671,0.87
+1685,Laptop,Electronics,21241,2.27
+1686,Bookshelf,Furniture,7255,11.37
+1687,Mug,Other,11246,2.75
+1688,Laptop,Electronics,11807,2.77
+1689,Dress,Clothing,1743,0.51
+1690,Notebook,Other,14477,3.15
+1691,Watch,Accessories,6479,0.17
+1692,Office Chair,Furniture,35693,36.07
+1693,Laptop,Electronics,60854,2.06
+1694,Headphones,Other,10317,1.53
+1695,Headphones,Other,10730,4.38
+1696,Sunglasses,Accessories,7616,1.45
+1697,Mug,Other,8010,0.91
+1698,Laptop,Electronics,27646,2.13
+1699,Sunglasses,Accessories,7075,0.55
+1700,Table,Furniture,5022,10.63
+1701,T-shirt,Clothing,3095,0.68
+1702,Jacket,Clothing,1295,0.88
+1703,Pen Set,Other,6744,3.82
+1704,T-shirt,Clothing,4338,0.17
+1705,Wallet,Accessories,3272,1.11
+1706,Charger,Other,5742,2.14
+1707,Backpack,Accessories,9406,0.23
+1708,Sofa,Furniture,27872,9.07
+1709,T-shirt,Clothing,3295,0.71
+1710,Pen Set,Other,12186,0.17
+1711,Jeans,Clothing,1106,0.1
+1712,Belt,Accessories,2506,1.06
+1713,Belt,Accessories,3534,1.47
+1714,Sweater,Clothing,1950,0.75
+1715,Office Chair,Furniture,21916,33.66
+1716,Pen Set,Other,8570,2.75
+1717,Sofa,Furniture,24725,9.93
+1718,Charger,Other,12879,1.64
+1719,Sweater,Clothing,2565,0.92
+1720,Charger,Other,2381,3.9
+1721,Mug,Other,10471,0.33
+1722,Power Bank,Electronics,58563,2.85
+1723,T-shirt,Clothing,3747,0.4
+1724,Scarf,Accessories,7017,1.77
+1725,Backpack,Accessories,5264,1.22
+1726,Jeans,Clothing,1211,0.5
+1727,Sweater,Clothing,2912,0.24
+1728,Backpack,Accessories,2482,1.27
+1729,Sunglasses,Accessories,6715,1.87
+1730,Office Chair,Furniture,11559,33.11
+1731,Sweater,Clothing,1288,0.96
+1732,Bluetooth Speaker,Electronics,15256,1.58
+1733,Lamp,Other,3647,3.96
+1734,Notebook,Other,9847,2.71
+1735,Sunglasses,Accessories,672,0.25
+1736,Table,Furniture,29707,10.22
+1737,Jeans,Clothing,1383,0.14
+1738,Table,Furniture,49596,23.08
+1739,Scarf,Accessories,7928,0.28
+1740,Desk,Furniture,35303,33.58
+1741,Dress,Clothing,1947,0.59
+1742,T-shirt,Clothing,4991,0.48
+1743,Scarf,Accessories,7057,1.47
+1744,Sofa,Furniture,8568,30.8
+1745,Desk,Furniture,13905,39.76
+1746,Power Bank,Electronics,38453,0.55
+1747,Cap,Clothing,1257,0.43
+1748,Wireless Earbuds,Electronics,16989,2.83
+1749,Pen Set,Other,13026,2.66
+1750,Jacket,Clothing,2216,0.78
+1751,Office Chair,Furniture,26386,20.88
+1752,Notebook,Other,12069,0.21
+1753,Notebook,Other,2337,0.54
+1754,Jeans,Clothing,1932,0.73
+1755,Wireless Earbuds,Electronics,14369,1.03
+1756,Charger,Other,12094,3.28
+1757,Backpack,Accessories,4875,1.69
+1758,Scarf,Accessories,7825,0.15
+1759,Power Bank,Electronics,66409,1.94
+1760,Stool,Furniture,4639,8.26
+1761,Wireless Earbuds,Electronics,42989,0.38
+1762,Sweater,Clothing,4569,0.64
+1763,Office Chair,Furniture,35613,27.43
+1764,Jacket,Clothing,357,0.27
+1765,Dress,Clothing,3666,0.87
+1766,Sofa,Furniture,43043,38.11
+1767,Laptop,Electronics,75437,2.06
+1768,Dress,Clothing,1785,0.81
+1769,Dress,Clothing,2316,0.69
+1770,Pen Set,Other,2884,4.46
+1771,Dress,Clothing,2526,0.16
+1772,Office Chair,Furniture,44728,9.88
+1773,Notebook,Other,9567,2.91
+1774,Jacket,Clothing,1869,0.66
+1775,Bookshelf,Furniture,30453,12.97
+1776,Charger,Other,413,2.64
+1777,Lamp,Other,6926,1.11
+1778,Backpack,Accessories,7161,1.69
+1779,Backpack,Accessories,9915,1.07
+1780,Power Bank,Electronics,21640,1.36
+1781,Office Chair,Furniture,37275,9.21
+1782,Bluetooth Speaker,Electronics,12904,1.12
+1783,Sofa,Furniture,23500,14.68
+1784,Pen Set,Other,935,1.85
+1785,Wireless Earbuds,Electronics,60629,1.51
+1786,Belt,Accessories,2657,1.21
+1787,Jeans,Clothing,1656,0.79
+1788,T-shirt,Clothing,3294,0.61
+1789,Mug,Other,12424,1.65
+1790,Wallet,Accessories,4235,0.26
+1791,Laptop,Electronics,44860,0.8
+1792,Sweater,Clothing,3148,0.49
+1793,Office Chair,Furniture,35778,30.09
+1794,Mug,Other,6402,4.23
+1795,Wallet,Accessories,8114,1.63
+1796,Bookshelf,Furniture,45297,38.88
+1797,Belt,Accessories,6587,0.62
+1798,Mug,Other,910,4.98
+1799,Jeans,Clothing,1593,0.68
+1800,Sweater,Clothing,4473,0.21
+1801,Smartphone,Electronics,5502,1.22
+1802,T-shirt,Clothing,4041,0.17
+1803,Bluetooth Speaker,Electronics,51014,1.49
+1804,Bookshelf,Furniture,32394,23.64
+1805,Headphones,Other,8928,1.01
+1806,Backpack,Accessories,1923,0.26
+1807,Sunglasses,Accessories,5612,0.53
+1808,Power Bank,Electronics,33344,2.99
+1809,Lamp,Other,11971,4.98
+1810,Notebook,Other,1065,0.49
+1811,Backpack,Accessories,6088,0.65
+1812,Bluetooth Speaker,Electronics,26886,1.01
+1813,Tablet,Electronics,39926,2.16
+1814,Wallet,Accessories,2202,1.0
+1815,Lamp,Other,1022,3.37
+1816,Belt,Accessories,7607,1.15
+1817,Notebook,Other,9845,1.39
+1818,Sofa,Furniture,39429,17.44
+1819,Cap,Clothing,643,0.26
+1820,Notebook,Other,13739,4.28
+1821,Pen Set,Other,3609,3.99
+1822,Tablet,Electronics,68693,0.21
+1823,Scarf,Accessories,3975,1.27
+1824,Lamp,Other,325,0.2
+1825,Jeans,Clothing,665,0.28
+1826,Bluetooth Speaker,Electronics,78900,0.88
+1827,Jacket,Clothing,4897,0.23
+1828,Cap,Clothing,1805,0.49
+1829,Bluetooth Speaker,Electronics,55245,1.75
+1830,Jeans,Clothing,2533,0.62
+1831,Dress,Clothing,4266,0.79
+1832,Mug,Other,10221,3.78
+1833,Backpack,Accessories,3232,1.97
+1834,Bookshelf,Furniture,46000,7.25
+1835,Lamp,Other,4457,0.93
+1836,Bluetooth Speaker,Electronics,75016,2.73
+1837,Smartphone,Electronics,38021,1.5
+1838,Cap,Clothing,1764,0.89
+1839,Backpack,Accessories,4773,0.58
+1840,Dress,Clothing,4103,0.8
+1841,Bookshelf,Furniture,28313,38.89
+1842,Sunglasses,Accessories,2192,0.85
+1843,Power Bank,Electronics,2069,2.17
+1844,Wireless Earbuds,Electronics,27329,0.36
+1845,Notebook,Other,3700,3.54
+1846,Lamp,Other,13685,3.37
+1847,Pen Set,Other,8680,1.44
+1848,Table,Furniture,21089,8.89
+1849,Power Bank,Electronics,63647,1.08
+1850,Tablet,Electronics,32957,1.08
+1851,Bookshelf,Furniture,7051,28.69
+1852,Stool,Furniture,8926,26.7
+1853,Tablet,Electronics,59568,0.45
+1854,Mug,Other,12661,0.42
+1855,Wireless Earbuds,Electronics,18987,2.62
+1856,Desk,Furniture,40703,8.57
+1857,Desk,Furniture,36485,13.7
+1858,Sunglasses,Accessories,3794,0.74
+1859,Power Bank,Electronics,3310,1.24
+1860,Notebook,Other,10576,3.75
+1861,Notebook,Other,8221,1.68
+1862,Laptop,Electronics,38469,2.87
+1863,Belt,Accessories,6674,0.14
+1864,Lamp,Other,12696,3.83
+1865,Jeans,Clothing,372,0.96
+1866,Table,Furniture,7682,21.47
+1867,Table,Furniture,31717,11.66
+1868,Sunglasses,Accessories,6684,1.37
+1869,Wireless Earbuds,Electronics,5406,2.17
+1870,Smartphone,Electronics,53621,0.29
+1871,Bookshelf,Furniture,29028,21.56
+1872,Office Chair,Furniture,38991,38.99
+1873,Dress,Clothing,3126,0.89
+1874,Cap,Clothing,470,0.97
+1875,Dress,Clothing,1292,0.66
+1876,Stool,Furniture,40391,8.94
+1877,Charger,Other,580,1.99
+1878,Sunglasses,Accessories,9382,0.33
+1879,Smartphone,Electronics,5538,0.58
+1880,Sunglasses,Accessories,921,1.92
+1881,Pen Set,Other,11036,4.48
+1882,Smartphone,Electronics,16728,2.95
+1883,Belt,Accessories,6238,0.11
+1884,Tablet,Electronics,63483,2.27
+1885,Jacket,Clothing,1887,0.65
+1886,Charger,Other,1779,2.88
+1887,Bookshelf,Furniture,34641,25.08
+1888,Laptop,Electronics,64708,0.49
+1889,Sofa,Furniture,42313,5.14
+1890,Wallet,Accessories,8066,0.92
+1891,Laptop,Electronics,29988,1.52
+1892,Jeans,Clothing,1054,0.49
+1893,T-shirt,Clothing,2919,0.25
+1894,Pen Set,Other,6628,3.6
+1895,Notebook,Other,8688,2.7
+1896,Bluetooth Speaker,Electronics,73556,0.5
+1897,Mug,Other,11603,4.9
+1898,T-shirt,Clothing,4866,0.87
+1899,Stool,Furniture,3862,19.54
+1900,Bluetooth Speaker,Electronics,44301,1.22
+1901,Smartphone,Electronics,25200,1.47
+1902,Bookshelf,Furniture,4951,39.26
+1903,Sofa,Furniture,33695,28.35
+1904,Jeans,Clothing,2772,0.45
+1905,Smartphone,Electronics,1779,0.56
+1906,Smartphone,Electronics,1510,2.96
+1907,Stool,Furniture,40786,37.34
+1908,Bluetooth Speaker,Electronics,50035,2.84
+1909,Notebook,Other,9599,4.1
+1910,Smartphone,Electronics,5180,1.3
+1911,Notebook,Other,1875,3.28
+1912,Sofa,Furniture,28833,10.65
+1913,Dress,Clothing,934,0.83
+1914,Watch,Accessories,2774,0.75
+1915,Office Chair,Furniture,46965,32.9
+1916,Backpack,Accessories,3238,0.43
+1917,Sunglasses,Accessories,840,1.02
+1918,Belt,Accessories,9277,1.39
+1919,Sunglasses,Accessories,3011,0.29
+1920,Pen Set,Other,11024,0.63
+1921,Watch,Accessories,3822,1.33
+1922,Jacket,Clothing,824,0.24
+1923,Charger,Other,396,4.84
+1924,Headphones,Other,1718,1.54
+1925,Pen Set,Other,6983,2.96
+1926,Bluetooth Speaker,Electronics,56795,1.69
+1927,Mug,Other,7671,2.1
+1928,Scarf,Accessories,8870,0.4
+1929,Dress,Clothing,2310,0.53
+1930,Pen Set,Other,3705,1.35
+1931,Cap,Clothing,641,0.26
+1932,Laptop,Electronics,18231,2.66
+1933,Scarf,Accessories,881,1.5
+1934,Table,Furniture,16775,20.66
+1935,Jacket,Clothing,1266,0.56
+1936,Table,Furniture,37759,29.47
+1937,Bluetooth Speaker,Electronics,77947,1.06
+1938,Sweater,Clothing,4785,0.75
+1939,Watch,Accessories,1633,0.65
+1940,Backpack,Accessories,8335,1.27
+1941,Laptop,Electronics,19808,2.08
+1942,Notebook,Other,2005,0.48
+1943,Lamp,Other,9389,3.97
+1944,Cap,Clothing,2863,0.78
+1945,Bookshelf,Furniture,49695,18.87
+1946,Charger,Other,13245,3.22
+1947,Jacket,Clothing,2969,0.59
+1948,Sunglasses,Accessories,6211,1.79
+1949,Bluetooth Speaker,Electronics,5302,0.81
+1950,Lamp,Other,4207,2.74
+1951,Jacket,Clothing,4801,0.79
+1952,Watch,Accessories,7742,0.7
+1953,Headphones,Other,7471,2.6
+1954,Watch,Accessories,3180,1.54
+1955,Scarf,Accessories,4836,0.9
+1956,Backpack,Accessories,8270,0.9
+1957,Smartphone,Electronics,32375,2.43
+1958,Sweater,Clothing,868,0.51
+1959,Sweater,Clothing,1157,0.55
+1960,Sunglasses,Accessories,8027,0.89
+1961,Laptop,Electronics,22066,1.73
+1962,Headphones,Other,586,0.29
+1963,Wireless Earbuds,Electronics,34859,0.61
+1964,Charger,Other,9913,1.94
+1965,Watch,Accessories,5508,0.86
+1966,Desk,Furniture,14982,36.45
+1967,Dress,Clothing,2689,0.58
+1968,Jacket,Clothing,1953,0.83
+1969,Pen Set,Other,9335,3.22
+1970,T-shirt,Clothing,3814,0.16
+1971,Charger,Other,529,4.71
+1972,Sweater,Clothing,2050,0.56
+1973,Scarf,Accessories,4124,1.32
+1974,Mug,Other,4277,2.35
+1975,Jeans,Clothing,1247,0.28
+1976,T-shirt,Clothing,2277,0.53
+1977,Pen Set,Other,14260,3.39
+1978,Headphones,Other,350,3.75
+1979,Sunglasses,Accessories,871,1.26
+1980,Notebook,Other,8062,0.3
+1981,Stool,Furniture,6606,25.8
+1982,Table,Furniture,23965,21.45
+1983,Backpack,Accessories,7181,1.59
+1984,Cap,Clothing,1497,0.85
+1985,Wireless Earbuds,Electronics,79380,1.29
+1986,Mug,Other,4049,0.18
+1987,Office Chair,Furniture,36707,33.85
+1988,Laptop,Electronics,33404,2.0
+1989,Tablet,Electronics,71673,0.34
+1990,Smartphone,Electronics,60218,1.1
+1991,Power Bank,Electronics,19751,1.48
+1992,Sofa,Furniture,32283,12.73
+1993,Smartphone,Electronics,30742,2.27
+1994,T-shirt,Clothing,1304,0.61
+1995,Smartphone,Electronics,25544,1.05
+1996,Sunglasses,Accessories,9539,0.61
+1997,Desk,Furniture,7977,15.42
+1998,Jacket,Clothing,1910,0.57
+1999,Smartphone,Electronics,10027,2.39
+2000,Desk,Furniture,39452,34.51
